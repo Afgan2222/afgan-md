@@ -2,7 +2,7 @@ let util = require('util')
 let path = require('path')
 let { spawn } = require('child_process')
 
-// Font By MFarelS:V
+// Font By Afgan:V
 let fontPath = 'src/font/Zahraaa.ttf'
 let handler = async (m, { conn, args }) => {
   if (!global.support.convert &&
