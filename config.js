@@ -36,7 +36,7 @@ global.wait = '_*𝒔𝒆𝒅𝒂𝒏𝒈 𝒅𝒊 𝒑𝒓𝒐𝒔𝒆𝒔...*_
 global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓...*_'
 
 //========Url Template Buttons=========//
-global.dtu = 'source code'
+global.dtu = 'Group Bot'
 global.urlnya = "https://chat.whatsapp.com/DVfawsZozt36QdYmfQlsbD"
 
 //============= callButtons =============//
